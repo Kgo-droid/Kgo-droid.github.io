@@ -1,5 +1,5 @@
 const username = "Kgo-droid";
-`https://api.github.com/users/${username}/repos`
+https://api.github.com/users/${username}/repos
 
 
 const listContainer = document.getElementById("project-list");
